@@ -29,7 +29,7 @@ data <- c(2.4, 2.8, 2.1, 2.5, 2.4, 2.2,
 length(data)
 
 #7
-new_data <- rep(data,2)
+new_data <- rep(data*2)
 new_data
 
 #8.1
